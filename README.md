@@ -13,4 +13,3 @@ This theme was created with the following principles in mind:
 
 
 **Enjoy!**
-# darcula-aurora-theme
