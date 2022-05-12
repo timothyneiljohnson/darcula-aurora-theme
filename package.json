@@ -1,4 +1,8 @@
 {
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/timothyneiljohnson/darcula-aurora-theme.git"
+    },
     "name": "darcula-aurora",
     "displayName": "Darcula Aurora",
     "description": "A cross between Nord Aurora and Darcula themes",

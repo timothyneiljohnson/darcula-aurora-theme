@@ -1,6 +1,6 @@
 # Darcula Aurora (VS Code Theme)
 
-![Darcula Aroura screenshot](darcula-aurora.png "Darcula Aroura")
+![Darcula Aroura screenshot](https://raw.githubusercontent.com/timothyneiljohnson/darcula-aurora-theme/main/darcula-aurora.png "Darcula Aroura")
 
 A cross between two of my favorite [Visual Studio Code](https://code.visualstudio.com/) themes: [_Darcula_](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula) and [_Nord Aurora_](https://marketplace.visualstudio.com/items?itemName=Avetis.nord-palette).
 
