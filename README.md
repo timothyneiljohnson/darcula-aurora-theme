@@ -1,5 +1,4 @@
-# Darcula Aurora
-## VS Code Theme
+# Darcula Aurora (VS Code Theme)
 
 ![Darcula Aroura screenshot](darcula-aurora.png "Darcula Aroura")
 
